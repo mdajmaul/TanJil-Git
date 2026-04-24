@@ -14,19 +14,19 @@
   "language": "en",
   "notesLanguage": "change to your language with ISO 639-1 code, available languages: vi (Vietnamese), en (English)",
   "nickNameBot": "BOT NICKNAME DEW",
-  "prefix": "/",
+  "prefix": "!",
   "adminOnly": {
     "enable": false,
     "ignoreCommand": []
   },
-  "DEV": ["61579509758592"],
+  "DEV": ["61570738642014"],
   "adminBot": [
-    "61564913640716"
+    "61570738642014"
   ],
   "whiteListMode": {
     "enable": false,
     "whiteListIds": [
-      "61579509758592"
+      "61570738642014"
     ],
     "notes": "if you enable this feature, only the ids in the whiteListIds list can use the bot"
   },
